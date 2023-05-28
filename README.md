@@ -1,6 +1,4 @@
 # ROBAlgorithm
-Ski rental problem (rent/buy problem) is a namegiven to a class of problems in which there is a choice between continuing to pay a repeating cost or paying a one-time cost which eliminatesor reduces the repeating cost.
-
        @Author: Habib Ibrahim
        @Date: 27/05/2023
        @issue: Ski rental problem (rent/buy) - Online Algorithms
