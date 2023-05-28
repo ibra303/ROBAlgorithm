@@ -13,8 +13,8 @@ Introduction:
 Motivation:
 
        Many online problems have a sub-problem called the rent/buy problem. We need to decide whether to stay in
-       the current state and pay a certain amount of cost per time unit, or switch to another state and pay some fixed
-       large cost with no further payment.
+       the current state and pay a certain amount of cost per time unit, or switch to another state and pay some 
+       fixed large cost with no further payment.
 
 I/O:
 
