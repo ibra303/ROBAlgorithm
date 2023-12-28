@@ -3,7 +3,6 @@
        @Date: 27/05/2023
        @issue: Ski rental problem (rent/buy) - Online Algorithms
        @Version: "0.1" , "python 3.12"
-       
 code can be executed at: https://colab.research.google.com/drive/1njoJsXlWyZihBw0c_2obxNynkFK7hSGe?usp=sharing
 Introduction:
 
