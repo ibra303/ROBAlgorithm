@@ -4,6 +4,7 @@
        @issue: Ski rental problem (rent/buy) - Online Algorithms
        @Version: "0.1" , "python 3.12"
 code can be executed at: https://colab.research.google.com/drive/1njoJsXlWyZihBw0c_2obxNynkFK7hSGe?usp=sharing
+
 Introduction:
 
         Ski rental problem (rent/buy problem) is a name given to a class of problems in which there is a
